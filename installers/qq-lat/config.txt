@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="QQ - Latın v1.0"
+BeginPrompt="'QQ - Latın v1.0' klaviatura maketin ornatıwdı qáleysiz be?"
+RunProgram="qq-lat\setup.exe"
+;!@InstallEnd@!
