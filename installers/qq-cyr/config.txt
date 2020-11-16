@@ -1,0 +1,5 @@
+;!@Install@!UTF-8!
+Title="ҚҚ - Кириллица v1.0"
+BeginPrompt="'ҚҚ - Кириллица v1.0' клавиатура макетин орнатыўды қәлейсиз бе?"
+RunProgram="qq-cyr\setup.exe"
+;!@InstallEnd@!
